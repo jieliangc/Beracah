@@ -1,0 +1,5 @@
+#container{}
+#header{height:50px;border:thin;}
+#content{height:900px;width:60.5%;border:thin;float:left;}
+#menu{height:900px;width:38%;border:thin;float:right;}
+#footer{height:150px;border:thin;clear:both;}
